@@ -4,7 +4,6 @@
 
 - [Visão geral](#visão-geral)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [Meu processo](#meu-processo)
   - [Tecnologias](#tecnologias)
   - [Recursos úteis](#recursos-úteis)
