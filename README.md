@@ -18,13 +18,13 @@ Um sistema simples para cadastro de produtos.
 
 ### Screenshot
 Home
-![](./public/img/home.png)
-Produtos
-![](./public/img/users.png)
+![Captura de Tela (239)](https://user-images.githubusercontent.com/49567926/233781882-41983b9d-486c-49a4-9210-0f495963316a.png)
 
-### Links
-- URL: ⚠️
+Listar Produtos
+![Captura de Tela (244)](https://user-images.githubusercontent.com/49567926/233781994-89a7ffe1-b240-4dee-8139-19aac52439af.png)
 
+Cadastrar Produtos
+![Captura de Tela (241)](https://user-images.githubusercontent.com/49567926/233781990-9ecefab2-35f9-4999-8175-f84c400d4608.png)
 
 ## Meu processo
 
@@ -34,6 +34,7 @@ Produtos
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Handlebars](https://handlebarsjs.com/)
+- [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 - [Sequelize](https://sequelize.org/)
 
 
@@ -45,7 +46,7 @@ Para rodar na sua máquina, você vai precisar ter instalado as seguintes ferram
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/jordanferreiraa/crud-produtos
+$ git clone https://github.com/geovanesv/crud-produtos
 
 # Acesse a pasta do projeto
 $ cd crud-produtos
@@ -66,7 +67,6 @@ $ npm run dev
 ## Autor
 
 - Linkedin - [ @geovane-araujo-07str ](https://www.linkedin.com/in/geovane-araujo-07str/)
-- Instagram - [ @_geovane_araujo_ ](https://instagram.com/_geovane_araujo_?igshid=YmMyMTA2M2Y=)
 
 &#xa0;
 
